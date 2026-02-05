@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: api
-        image: israelerlan1/week16:v1
+        image: israelerlan1/week16:v3
         ports:
         - containerPort: 8000
